@@ -15,6 +15,13 @@
 
 ---
 
+### 🐍 My Contributions in Snake Style
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karidasd/karidasd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -39,8 +46,9 @@
 ---
 
 ### 📫 Let's Connect
-
-* **LinkedIn:** [https://www.linkedin.com/in/dimitris-karydas-04638362/]
+<p align="left">
+  <a href="https://www.linkedin.com/in/dimitris-karydas-04638362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
