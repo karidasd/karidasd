@@ -8,7 +8,7 @@
 
 ### 🏷️ About Me
 * **Name:** Dimitris Karydas
-* **Role:** 👨‍🏫 AI Educator & Machine Learning Researcher
+* **Role:** 👨‍🏫 AI Educator & LLM Researcher
 * **Focus:** 🧠 Neural Networks, Deep Learning, AI Instruction
 * **Playing with:** 📊 Machine Learning Models & Data Science
 * **Open to:** 🤝 Research collaborations & teaching opportunities
