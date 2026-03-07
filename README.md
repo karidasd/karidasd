@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" />
 </p>
 
 <p align="center">
