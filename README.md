@@ -27,11 +27,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" />
-  <br>
-  <img src="https://github-readme-github-dynamic-quote.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karidasd&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
