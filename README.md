@@ -1,57 +1,84 @@
-# Hello, World! I'm Dimitris Karydas 🤖
+<h1 align="center">Hi there, I'm Dimitris Karydas 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=250&section=header&text=AI%20Educator%20&%20ML%20Engineer&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Teaching%20machines%20to%20think&descAlignY=60&descSize=20" width="100%" alt="Header Banner">
-</p>
-
----
-
-### 🏷️ About Me
-* **Name:** Dimitris Karydas
-* **Role:** 👨‍🏫 AI Educator & LLM Researcher
-* **Focus:** 🧠 Neural Networks, Deep Learning, AI Instruction
-* **Playing with:** 📊 Machine Learning Models & Data Science
-* **Open to:** 🤝 Research collaborations & teaching opportunities
-
----
-
-### 🐍 My Contributions in Snake Style
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karidasd/karidasd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" />
+  <img src="darkais_anagram.png" alt="KARIDAS to DarkAIs Anagram" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karidasd&theme=tokyonight" alt="Profile Details" />
+  <em>Senior AI Engineer | Data Scientist | Systems Architect</em>
 </p>
-
----
-
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/dimitris-karydas-04638362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
 
 <p align="center">
-  <i>"Demystifying AI, one project at a time."</i>
+  <a href="https://karidasd.github.io/">
+    <img src="https://img.shields.io/badge/Website-Live_Portfolio-success?style=for-the-badge&logo=google-chrome" alt="Portfolio Website" />
+  </a>
+  <a href="https://calendly.com/karidasdimitris23">
+    <img src="https://img.shields.io/badge/Calendly-Book_a_Strategy_Session-blue?style=for-the-badge&logo=calendly" alt="Calendly" />
+  </a>
 </p>
+
+---
+
+## 🚀 About Me
+
+I design and deploy highly complex, industry-grade Artificial Intelligence and Data Engineering systems. I specialize in the "edge-cases" of Machine Learning: optimizing distributed training, mitigating data drift in production, and architecting LLM Agentic workflows that don't hallucinate.
+
+* ⚙️ **Specialties:** Large Language Models (LLMs), RAG Architectures, Distributed Data Pipelines (Spark/Kafka), and causal inference.
+* 🛠️ **Current Focus:** Building autonomous self-correcting AI Agents for Business Intelligence.
+* 🌐 **Live Projects:** Check out my [Personal Portfolio](https://karidasd.github.io/).
+
+---
+
+## 🪤 The "Strategy Session" (1-on-1 Mentorship)
+
+Are you struggling to pass Senior Data Science rounds? Keep failing automated AI video interviews (like HireVue)? 
+
+Because I build the very systems that evaluate candidates, I know exactly what the internal algorithms and human hiring managers look for:
+- 💡 **How to "Beat" the AI Interview:** Understanding the NLP and sentiment analysis rules used by automated platforms.
+- 💡 **System Design:** How to architect real-world MLOps pipelines without falling into common traps.
+- 💡 **The Edge Cases:** Answering the impossible "Machiavellian" trade-off questions that filter out 90% of candidates.
+
+> 📅 **[Book a 1-on-1 Strategy Session with me via Calendly](https://calendly.com/karidasdimitris23)** and let's reverse-engineer your next technical interview.
+
+---
+
+## 🏗️ Elite Open-Source Architecture
+
+I open-source the hardest problems I solve. Explore my featured repositories:
+
+### 1. [Tech-Interview-Cheatsheets](https://github.com/karidasd/Tech-interview-cheatsheets)
+**The "Gold Edition".** A legendary collection of 300+ Machiavellian, edge-case interview questions for Senior AI, Deep Learning, and MLOps roles. *Warning: Extremely difficult.*
+
+### 2. [Agentic-BI](https://github.com/karidasd/Agentic-BI)
+**Autonomous Systems.** A fully autonomous Power BI semantic model builder and custom HTML KPI card generator, driven entirely by Agentic AI. 
+
+### 3. [AI Job Radar](https://github.com/karidasd/ai-data-science-jobs)
+**Serverless Automation.** An aggressive web scraper running on GitHub Actions that extracts 300+ remote AI jobs daily, using NLP to uncover hidden salaries.
+
+### 4. [Deep Learning & GenAI](https://github.com/karidasd/Deep-Learning-and-GenAI)
+**Model Training.** Step-by-step implementations exploring Deep Learning architectures, custom LLM fine-tuning, and robust RAG pipelines.
+
+---
+
+## 📊 Arsenal & GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<p align="center">
+  <a href="https://github.com/karidasd">
+    <img src="https://github-readme-stats.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/karidasd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karidasd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  </a>
+</p>
+
+---
+<p align="center"><i>Building the systems of tomorrow, teaching the engineers of today.</i></p>
