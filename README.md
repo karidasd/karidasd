@@ -38,6 +38,17 @@
 
 ---
 
+### 🚀 Featured AI Projects
+
+| Project | Description | Tech Stack | Live Demo / Code |
+|:---|:---|:---|:---|
+| **[prompt-to-loop-engineering](https://github.com/karidasd/prompt-to-loop-engineering)** | 7 levels of AI progression from simple zero-shot prompting to self-correcting agentic loops. | `AI Agents` `Python` `ReAct` | [💻 Code](https://github.com/karidasd/prompt-to-loop-engineering) |
+| **[over-under-predictions](https://github.com/karidasd/over-under-predictions)** | Automated betting engine predicting Over/Under 2.5 football matches daily via GitHub Actions. | `Python` `Poisson` `CI/CD` | [🟢 Live Dashboard](https://karidasd.github.io/over-under-predictions/) |
+| **[remote-work-tools-2026](https://github.com/karidasd/remote-work-tools-2026)** | Hard-nosed, opinionated analysis of how 19 remote work tools have been transformed by AI. | `AI Stack` `Data Science` | [🟢 Live Dashboard](https://karidasd.github.io/remote-work-tools-2026/) |
+| **[technical-debt-analyzer](https://github.com/karidasd/technical-debt-analyzer)** | AST-based static analyzer CLI measuring cognitive load and code duplication. | `Python` `AST` `Metrics` | [💻 Code](https://github.com/karidasd/technical-debt-analyzer) |
+
+---
+
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karidasd&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Stats" />
@@ -52,6 +63,7 @@
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/dimitris-karydas-04638362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://calendly.com/karidasdimitris23" target="_blank"><img src="https://img.shields.io/badge/Schedule_a_Call-3B82F6?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
 ---
