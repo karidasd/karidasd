@@ -64,6 +64,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dimitris-karydas-04638362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://calendly.com/karidasdimitris23" target="_blank"><img src="https://img.shields.io/badge/Schedule_a_Call-3B82F6?style=for-the-badge&logo=calendly&logoColor=white" /></a>
+  <a href="https://karidasd.github.io/contact.html" target="_blank"><img src="https://img.shields.io/badge/Send_a_Message-10B981?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ---
