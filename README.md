@@ -42,6 +42,7 @@
 
 | Project | Description | Tech Stack | Live Demo / Code |
 |:---|:---|:---|:---|
+| **[find-the-insiders](https://github.com/karidasd/find-the-insiders)** | On-chain Solana wallet tracker mapping transaction clusters and funding parentage. | `Solana RPC` `FastAPI` `Vis.js` | [💻 Code](https://github.com/karidasd/find-the-insiders) |
 | **[prompt-to-loop-engineering](https://github.com/karidasd/prompt-to-loop-engineering)** | 7 levels of AI progression from simple zero-shot prompting to self-correcting agentic loops. | `AI Agents` `Python` `ReAct` | [💻 Code](https://github.com/karidasd/prompt-to-loop-engineering) |
 | **[over-under-predictions](https://github.com/karidasd/over-under-predictions)** | Automated betting engine predicting Over/Under 2.5 football matches daily via GitHub Actions. | `Python` `Poisson` `CI/CD` | [🟢 Live Dashboard](https://karidasd.github.io/over-under-predictions/) |
 | **[remote-work-tools-2026](https://github.com/karidasd/remote-work-tools-2026)** | Hard-nosed, opinionated analysis of how 19 remote work tools have been transformed by AI. | `AI Stack` `Data Science` | [🟢 Live Dashboard](https://karidasd.github.io/remote-work-tools-2026/) |
