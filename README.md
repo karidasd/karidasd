@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://karidasd.github.io/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Official%20Portfolio-karidasd.github.io-00F0FF?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://karidasd.github.io/quant-tarot/"><img src="https://img.shields.io/badge/%F0%9F%94%AE%20Quant%20Tarot-Live%20Oracle-FFB800?style=for-the-badge" alt="Quant Tarot"></a>
   <a href="https://karidasd.github.io/darkais-web-radio/"><img src="https://img.shields.io/badge/%F0%9F%93%BB%20Live%20Rave%20Radio-24%2F7%20ON%20AIR-39FF14?style=for-the-badge" alt="Web Radio"></a>
   <a href="https://karidasd.github.io/algo-trading-academy/"><img src="https://img.shields.io/badge/%F0%9F%93%88%20Trading%20Academy-Live-FFB800?style=for-the-badge" alt="Trading Academy"></a>
   <a href="https://karidasd.github.io/ai-academy/"><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20AI%20Academy-Live-A855F7?style=for-the-badge" alt="AI Academy"></a>
@@ -23,7 +24,9 @@
 * **Role:** 👨‍🏫 AI Educator, LLM Agent Architect & Quant Developer
 * **Focus:** 🧠 Agentic AI Workflows, Quantitative Finance & Neural Networks
 * **Portfolio Website:** 🌐 **[karidasd.github.io](https://karidasd.github.io/)**
-* **Live Cyber Station:** 📻 **[DarkAIs 24/7 Cyber Rave Web Radio](https://karidasd.github.io/darkais-web-radio/)**
+* **Cyber Platforms:**
+  - 🔮 **[DarkAIs Quant Tarot & AI Oracle](https://karidasd.github.io/quant-tarot/)**
+  - 📻 **[DarkAIs 24/7 Cyber Rave Web Radio](https://karidasd.github.io/darkais-web-radio/)**
 * **The 3 Flagship DarkAIs Academies:**
   - 🎓 **[Algo Trading Academy](https://karidasd.github.io/algo-trading-academy/)**
   - 🧠 **[AI & Agents Academy](https://karidasd.github.io/ai-academy/)**
@@ -43,7 +46,8 @@
 
 | Project | Description | Tech Stack | Live Site / Code | Give a Star ⭐ |
 |:---|:---|:---|:---|:---|
-| 📻 **[darkais-web-radio](https://github.com/karidasd/darkais-web-radio)** | 24/7 Cyber Rave Web Radio with Canvas spectrum visualizers, global underground techno streams & live AI-303 synthesizer. | `Web Audio API` `Canvas` `Streams` | [📻 Tune In Live](https://karidasd.github.io/darkais-web-radio/) | [⭐ Star Repo](https://github.com/karidasd/darkais-web-radio) |
+| 🔮 **[quant-tarot](https://github.com/karidasd/quant-tarot)** | 3D Holographic Crypto Tarot Altar with 22 Major Arcana cards & quantitative AI market prophecies. | `Three.js CSS3D` `Web Audio` `AI` | [🔮 Consult Oracle](https://karidasd.github.io/quant-tarot/) | [⭐ Star Repo](https://github.com/karidasd/quant-tarot) |
+| 📻 **[darkais-web-radio](https://github.com/karidasd/darkais-web-radio)** | 24/7 Cyber Rave Web Radio with Canvas laser visualizers, global underground techno streams & live synth. | `Web Audio API` `Canvas` `Streams` | [📻 Tune In Live](https://karidasd.github.io/darkais-web-radio/) | [⭐ Star Repo](https://github.com/karidasd/darkais-web-radio) |
 | 🧠 **[ai-academy](https://github.com/karidasd/ai-academy)** | Institutional AI & Agents Academy with 12 modules, Neural loss sandbox, Prompt-to-Loop builder & diploma. | `Transformers` `PyTorch` `Agents` | [🌐 Live AI Academy](https://karidasd.github.io/ai-academy/) | [⭐ Star Repo](https://github.com/karidasd/ai-academy) |
 | 📊 **[data-science-academy](https://github.com/karidasd/data-science-academy)** | Data Science & ML Academy with 12 modules, K-Means sandbox, P-Value calculators & MLOps pipelines. | `Scikit-Learn` `XGBoost` `Stats` | [🌐 Live DS Academy](https://karidasd.github.io/data-science-academy/) | [⭐ Star Repo](https://github.com/karidasd/data-science-academy) |
 | 👑 **[algo-trading-academy](https://github.com/karidasd/algo-trading-academy)** | Institutional Algo Trading Academy with 12 modules, Pine Script generator & Monte Carlo matrix. | `TradingView` `Pine v5` `Quant` | [🌐 Live Trading Academy](https://karidasd.github.io/algo-trading-academy/) | [⭐ Star Repo](https://github.com/karidasd/algo-trading-academy) |
